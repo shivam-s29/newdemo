@@ -1,2 +1,2 @@
 # newdemo
-for demo 
+for demo and project purposes
